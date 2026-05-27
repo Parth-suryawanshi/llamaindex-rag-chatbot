@@ -1,7 +1,11 @@
 llama-index
-groq
-pypdf
-python-dotenv
 llama-index-llms-groq
 llama-index-embeddings-huggingface
+llama-index-vector-stores-qdrant
+qdrant-client
 sentence-transformers
+python-dotenv
+streamlit
+pypdf
+python-docx
+docx2txt
